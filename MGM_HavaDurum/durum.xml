@@ -1,0 +1,325 @@
+<SOA>
+<Kemo>
+...
+</Kemo>
+<sehirler>
+<Bolge>Marmara</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>İSTANBUL</ili>
+<Merkez>İSTANBUL</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>32</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Marmara</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>EDİRNE</ili>
+<Merkez>EDİRNE</Merkez>
+<Durum>Parçalı ve az bulutlu</Durum>
+<Mak>40</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Marmara</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>KOCAELİ</ili>
+<Merkez>KOCAELİ</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>36</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Ege</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>İZMİR</ili>
+<Merkez>İZMİR</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>39</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Ege</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>A.KARAHİSAR</ili>
+<Merkez>A.KARAHİSAR</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>33</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Ege</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>DENİZLİ</ili>
+<Merkez>DENİZLİ</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>40</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Akdeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>ADANA</ili>
+<Merkez>ADANA</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>35</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Akdeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>MERSİN</ili>
+<Merkez>MERSİN</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>33</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Akdeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>ANTALYA</ili>
+<Merkez>ANTALYA</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>41</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>IcAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>ANKARA</ili>
+<Merkez>ANKARA</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>33</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>IcAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>ESKİŞEHİR</ili>
+<Merkez>ESKİŞEHİR</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>35</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>IcAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>KONYA</ili>
+<Merkez>KONYA</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>33</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>BatiKaradeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>BOLU</ili>
+<Merkez>BOLU</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>31</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>BatiKaradeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>ZONGULDAK</ili>
+<Merkez>ZONGULDAK</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>27</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>BatiKaradeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>KASTAMONU</ili>
+<Merkez>KASTAMONU</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>32</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>OrtaVeDoguKaradeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>SAMSUN</ili>
+<Merkez>SAMSUN</Merkez>
+<Durum>Parçalı ve az bulutlu</Durum>
+<Mak>29</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>OrtaVeDoguKaradeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>TOKAT</ili>
+<Merkez>TOKAT</Merkez>
+<Durum>Parçalı ve az bulutlu</Durum>
+<Mak>31</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>OrtaVeDoguKaradeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>TRABZON</ili>
+<Merkez>TRABZON</Merkez>
+<Durum>Parçalı bulutlu</Durum>
+<Mak>28</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>DoguAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>ERZURUM</ili>
+<Merkez>ERZURUM</Merkez>
+<Durum>Parçalı bulutlu</Durum>
+<Mak>30</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>DoguAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>MALATYA</ili>
+<Merkez>MALATYA</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>36</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>DoguAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>VAN</ili>
+<Merkez>VAN</Merkez>
+<Durum>Parçalı ve az bulutlu</Durum>
+<Mak>29</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>GuneyDoguAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>DİYARBAKIR</ili>
+<Merkez>DİYARBAKIR</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>41</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>GuneyDoguAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>GAZİANTEP</ili>
+<Merkez>GAZİANTEP</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>40</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>GuneyDoguAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>ŞANLIURFA</ili>
+<Merkez>ŞANLIURFA</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>42</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Marmara</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>KIRKLARELİ</ili>
+<Merkez>KIRKLARELİ</Merkez>
+<Durum>Parçalı ve az bulutlu</Durum>
+<Mak>38</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Ege</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>MANİSA</ili>
+<Merkez>MANİSA</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>42</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>Akdeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>HATAY</ili>
+<Merkez>HATAY</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>33</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>IcAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>YOZGAT</ili>
+<Merkez>YOZGAT</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>29</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>BatiKaradeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>DÜZCE</ili>
+<Merkez>DÜZCE</Merkez>
+<Durum>Az bulutlu ve açık </Durum>
+<Mak>34</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>OrtaVeDoguKaradeniz</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>AMASYA</ili>
+<Merkez>AMASYA</Merkez>
+<Durum>Parçalı ve az bulutlu</Durum>
+<Mak>34</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>DoguAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>KARS</ili>
+<Merkez>KARS</Merkez>
+<Durum>Parçalı bulutlu</Durum>
+<Mak>28</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+<sehirler>
+<Bolge>GuneyDoguAnadolu</Bolge>
+<Peryot>Sabah</Peryot>
+<ili>SİİRT</ili>
+<Merkez>SİİRT</Merkez>
+<Durum>Az bulutlu ve açık</Durum>
+<Mak>40</Mak>
+<Min/>
+<SehirIkon/>
+</sehirler>
+</SOA>

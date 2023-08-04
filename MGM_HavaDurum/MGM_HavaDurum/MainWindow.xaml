@@ -1,0 +1,59 @@
+﻿<Window x:Class="MGM_HavaDurum.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MGM_HavaDurum"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="474.213" Width="1100.776" WindowStyle="None"
+        ResizeMode="NoResize">
+    <Grid x:Name="grid" Margin="10,0,0,-20" >
+        <Grid.Background>
+            <ImageBrush ImageSource="C:/Users/Enko/source/repos/MGM_HavaDurum/Resimler/darkblue.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="809*"/>
+            <ColumnDefinition Width="209*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="datagrid" AutoGenerateColumns="False" ItemsSource="{Binding}" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="400" Width="488" SelectionUnit="FullRow" SelectionChanged="DataGrid_SelectionChanged" Grid.ColumnSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="İl" Binding="{Binding Il}" />
+                <DataGridTextColumn Header="Durum" Binding="{Binding Durum}" />
+                <DataGridTextColumn Header="Derece" Binding="{Binding Derece}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Verileri Getir" Click="Button_Click" HorizontalAlignment="Left" Margin="10,415,0,0" VerticalAlignment="Top" Width="100" Grid.ColumnSpan="2"/>
+        <Label x:Name="lbSehir" Content="Sehir" HorizontalAlignment="Left" Margin="491,58,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Times New Roman" Grid.Column="1" Foreground="White"  Visibility="Hidden"/>
+        <Label x:Name="lbDerece" Content="Derece" HorizontalAlignment="Left" Margin="662,208,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="40" Grid.Column="1" Foreground="White" Visibility="Hidden"/>
+        <Label x:Name="lbSantigrat" Content="°C" HorizontalAlignment="Left" Margin="697,200,0,0" VerticalAlignment="Top" Height="64" Width="74" FontSize="30" FontFamily="Times New Roman"  Grid.Column="1" Visibility="Hidden" Foreground="White"/>
+        <Image x:Name="imgDurum_yagmurlu" HorizontalAlignment="Left" Height="178" Margin="432,132,0,0" VerticalAlignment="Top" Width="196" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Visibility="Hidden">
+            <Image.Source>
+                <!-- BitmapImage ile resim yolu belirtilir -->
+                <BitmapImage UriSource="C:/Users/Enko/source/repos/MGM_HavaDurum/Resimler/yagmurlu.png"/>
+            </Image.Source>
+        </Image>
+        <Label x:Name="lbDurum" Content="Durum" HorizontalAlignment="Left" Margin="648,58,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Times New Roman" Grid.Column="1" Foreground="White" Visibility="Hidden"/>
+        <Image x:Name="imgDurum_gunesli" HorizontalAlignment="Left" Height="178" Margin="432,132,0,0" VerticalAlignment="Top" Width="196" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Visibility="Hidden">
+            <Image.Source>
+                <!-- BitmapImage ile resim yolu belirtilir -->
+                <BitmapImage UriSource="C:/Users/Enko/source/repos/MGM_HavaDurum/Resimler/gunesli.png"/>
+            </Image.Source>
+        </Image>
+        <Image x:Name="imgDurum_parcali" HorizontalAlignment="Left" Height="178" Margin="432,132,0,0" VerticalAlignment="Top" Width="196" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Visibility="Hidden">
+            <Image.Source>
+                <!-- BitmapImage ile resim yolu belirtilir -->
+                <BitmapImage UriSource="C:/Users/Enko/source/repos/MGM_HavaDurum/Resimler/parcali.png"/>
+            </Image.Source>
+        </Image>
+        <Image x:Name="imgDurum_bulutlu" HorizontalAlignment="Left" Height="178" Margin="432,132,0,0" VerticalAlignment="Top" Width="196" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Visibility="Hidden">
+            <Image.Source>
+                <!-- BitmapImage ile resim yolu belirtilir -->
+                <BitmapImage UriSource="C:/Users/Enko/source/repos/MGM_HavaDurum/Resimler/bulutlu.png"/>
+            </Image.Source>
+        </Image>
+        <Image Grid.Column="2" HorizontalAlignment="Left" Height="99" Margin="162,31,-53,0" VerticalAlignment="Top" Width="100"/>
+        <Image Grid.Column="2" HorizontalAlignment="Left" Height="44" Margin="162,0,0,0" VerticalAlignment="Top" Width="47" Source="C:/Users/Enko/source/repos/MGM_HavaDurum/Resimler/close.png" MouseDown="Image_MouseDown" />
+
+    </Grid>
+</Window>

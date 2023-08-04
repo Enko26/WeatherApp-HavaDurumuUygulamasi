@@ -1,0 +1,14 @@
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MainWindow.g.cs
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\App.g.cs
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MGM_HavaDurum_MarkupCompile.cache
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MGM_HavaDurum_MarkupCompile.lref
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\bin\Debug\MGM_HavaDurum.exe.config
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\bin\Debug\MGM_HavaDurum.exe
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\bin\Debug\MGM_HavaDurum.pdb
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MainWindow.baml
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MGM_HavaDurum.g.resources
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MGM_HavaDurum.Properties.Resources.resources
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MGM_HavaDurum.csproj.GenerateResource.cache
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MGM_HavaDurum.exe
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MGM_HavaDurum.pdb
+C:\Users\Enko\source\repos\MGM_HavaDurum\MGM_HavaDurum\obj\Debug\MGM_HavaDurum.csprojAssemblyReference.cache
